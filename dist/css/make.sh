@@ -1,0 +1,2 @@
+lessc localizedbootstrap.less localizedbootstrap.css
+lessc localizedbootstrap-theme.less localizedbootstrap-theme.css
