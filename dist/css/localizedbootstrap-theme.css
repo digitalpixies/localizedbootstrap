@@ -1,4 +1,4 @@
-.localizedboostrap {
+.localizedbootstrap {
   /*!
  * Bootstrap v3.3.6 (http://getbootstrap.com)
  * Copyright 2011-2015 Twitter, Inc.
@@ -6,65 +6,65 @@
  */
   /*# sourceMappingURL=bootstrap-theme.css.map */
 }
-.localizedboostrap .btn-default,
-.localizedboostrap .btn-primary,
-.localizedboostrap .btn-success,
-.localizedboostrap .btn-info,
-.localizedboostrap .btn-warning,
-.localizedboostrap .btn-danger {
+.localizedbootstrap .btn-default,
+.localizedbootstrap .btn-primary,
+.localizedbootstrap .btn-success,
+.localizedbootstrap .btn-info,
+.localizedbootstrap .btn-warning,
+.localizedbootstrap .btn-danger {
   text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.2);
   -webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.15), 0 1px 1px rgba(0, 0, 0, 0.075);
   box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.15), 0 1px 1px rgba(0, 0, 0, 0.075);
 }
-.localizedboostrap .btn-default:active,
-.localizedboostrap .btn-primary:active,
-.localizedboostrap .btn-success:active,
-.localizedboostrap .btn-info:active,
-.localizedboostrap .btn-warning:active,
-.localizedboostrap .btn-danger:active,
-.localizedboostrap .btn-default.active,
-.localizedboostrap .btn-primary.active,
-.localizedboostrap .btn-success.active,
-.localizedboostrap .btn-info.active,
-.localizedboostrap .btn-warning.active,
-.localizedboostrap .btn-danger.active {
+.localizedbootstrap .btn-default:active,
+.localizedbootstrap .btn-primary:active,
+.localizedbootstrap .btn-success:active,
+.localizedbootstrap .btn-info:active,
+.localizedbootstrap .btn-warning:active,
+.localizedbootstrap .btn-danger:active,
+.localizedbootstrap .btn-default.active,
+.localizedbootstrap .btn-primary.active,
+.localizedbootstrap .btn-success.active,
+.localizedbootstrap .btn-info.active,
+.localizedbootstrap .btn-warning.active,
+.localizedbootstrap .btn-danger.active {
   -webkit-box-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
   box-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
 }
-.localizedboostrap .btn-default.disabled,
-.localizedboostrap .btn-primary.disabled,
-.localizedboostrap .btn-success.disabled,
-.localizedboostrap .btn-info.disabled,
-.localizedboostrap .btn-warning.disabled,
-.localizedboostrap .btn-danger.disabled,
-.localizedboostrap .btn-default[disabled],
-.localizedboostrap .btn-primary[disabled],
-.localizedboostrap .btn-success[disabled],
-.localizedboostrap .btn-info[disabled],
-.localizedboostrap .btn-warning[disabled],
-.localizedboostrap .btn-danger[disabled],
-.localizedboostrap fieldset[disabled] .btn-default,
-.localizedboostrap fieldset[disabled] .btn-primary,
-.localizedboostrap fieldset[disabled] .btn-success,
-.localizedboostrap fieldset[disabled] .btn-info,
-.localizedboostrap fieldset[disabled] .btn-warning,
-.localizedboostrap fieldset[disabled] .btn-danger {
+.localizedbootstrap .btn-default.disabled,
+.localizedbootstrap .btn-primary.disabled,
+.localizedbootstrap .btn-success.disabled,
+.localizedbootstrap .btn-info.disabled,
+.localizedbootstrap .btn-warning.disabled,
+.localizedbootstrap .btn-danger.disabled,
+.localizedbootstrap .btn-default[disabled],
+.localizedbootstrap .btn-primary[disabled],
+.localizedbootstrap .btn-success[disabled],
+.localizedbootstrap .btn-info[disabled],
+.localizedbootstrap .btn-warning[disabled],
+.localizedbootstrap .btn-danger[disabled],
+.localizedbootstrap fieldset[disabled] .btn-default,
+.localizedbootstrap fieldset[disabled] .btn-primary,
+.localizedbootstrap fieldset[disabled] .btn-success,
+.localizedbootstrap fieldset[disabled] .btn-info,
+.localizedbootstrap fieldset[disabled] .btn-warning,
+.localizedbootstrap fieldset[disabled] .btn-danger {
   -webkit-box-shadow: none;
   box-shadow: none;
 }
-.localizedboostrap .btn-default .badge,
-.localizedboostrap .btn-primary .badge,
-.localizedboostrap .btn-success .badge,
-.localizedboostrap .btn-info .badge,
-.localizedboostrap .btn-warning .badge,
-.localizedboostrap .btn-danger .badge {
+.localizedbootstrap .btn-default .badge,
+.localizedbootstrap .btn-primary .badge,
+.localizedbootstrap .btn-success .badge,
+.localizedbootstrap .btn-info .badge,
+.localizedbootstrap .btn-warning .badge,
+.localizedbootstrap .btn-danger .badge {
   text-shadow: none;
 }
-.localizedboostrap .btn:active,
-.localizedboostrap .btn.active {
+.localizedbootstrap .btn:active,
+.localizedbootstrap .btn.active {
   background-image: none;
 }
-.localizedboostrap .btn-default {
+.localizedbootstrap .btn-default {
   text-shadow: 0 1px 0 #fff;
   background-image: -webkit-linear-gradient(top, #fff 0%, #e0e0e0 100%);
   background-image: -o-linear-gradient(top, #fff 0%, #e0e0e0 100%);
@@ -76,38 +76,38 @@
   border-color: #dbdbdb;
   border-color: #ccc;
 }
-.localizedboostrap .btn-default:hover,
-.localizedboostrap .btn-default:focus {
+.localizedbootstrap .btn-default:hover,
+.localizedbootstrap .btn-default:focus {
   background-color: #e0e0e0;
   background-position: 0 -15px;
 }
-.localizedboostrap .btn-default:active,
-.localizedboostrap .btn-default.active {
+.localizedbootstrap .btn-default:active,
+.localizedbootstrap .btn-default.active {
   background-color: #e0e0e0;
   border-color: #dbdbdb;
 }
-.localizedboostrap .btn-default.disabled,
-.localizedboostrap .btn-default[disabled],
-.localizedboostrap fieldset[disabled] .btn-default,
-.localizedboostrap .btn-default.disabled:hover,
-.localizedboostrap .btn-default[disabled]:hover,
-.localizedboostrap fieldset[disabled] .btn-default:hover,
-.localizedboostrap .btn-default.disabled:focus,
-.localizedboostrap .btn-default[disabled]:focus,
-.localizedboostrap fieldset[disabled] .btn-default:focus,
-.localizedboostrap .btn-default.disabled.focus,
-.localizedboostrap .btn-default[disabled].focus,
-.localizedboostrap fieldset[disabled] .btn-default.focus,
-.localizedboostrap .btn-default.disabled:active,
-.localizedboostrap .btn-default[disabled]:active,
-.localizedboostrap fieldset[disabled] .btn-default:active,
-.localizedboostrap .btn-default.disabled.active,
-.localizedboostrap .btn-default[disabled].active,
-.localizedboostrap fieldset[disabled] .btn-default.active {
+.localizedbootstrap .btn-default.disabled,
+.localizedbootstrap .btn-default[disabled],
+.localizedbootstrap fieldset[disabled] .btn-default,
+.localizedbootstrap .btn-default.disabled:hover,
+.localizedbootstrap .btn-default[disabled]:hover,
+.localizedbootstrap fieldset[disabled] .btn-default:hover,
+.localizedbootstrap .btn-default.disabled:focus,
+.localizedbootstrap .btn-default[disabled]:focus,
+.localizedbootstrap fieldset[disabled] .btn-default:focus,
+.localizedbootstrap .btn-default.disabled.focus,
+.localizedbootstrap .btn-default[disabled].focus,
+.localizedbootstrap fieldset[disabled] .btn-default.focus,
+.localizedbootstrap .btn-default.disabled:active,
+.localizedbootstrap .btn-default[disabled]:active,
+.localizedbootstrap fieldset[disabled] .btn-default:active,
+.localizedbootstrap .btn-default.disabled.active,
+.localizedbootstrap .btn-default[disabled].active,
+.localizedbootstrap fieldset[disabled] .btn-default.active {
   background-color: #e0e0e0;
   background-image: none;
 }
-.localizedboostrap .btn-primary {
+.localizedbootstrap .btn-primary {
   background-image: -webkit-linear-gradient(top, #337ab7 0%, #265a88 100%);
   background-image: -o-linear-gradient(top, #337ab7 0%, #265a88 100%);
   background-image: -webkit-gradient(linear, left top, left bottom, from(#337ab7), to(#265a88));
@@ -117,38 +117,38 @@
   background-repeat: repeat-x;
   border-color: #245580;
 }
-.localizedboostrap .btn-primary:hover,
-.localizedboostrap .btn-primary:focus {
+.localizedbootstrap .btn-primary:hover,
+.localizedbootstrap .btn-primary:focus {
   background-color: #265a88;
   background-position: 0 -15px;
 }
-.localizedboostrap .btn-primary:active,
-.localizedboostrap .btn-primary.active {
+.localizedbootstrap .btn-primary:active,
+.localizedbootstrap .btn-primary.active {
   background-color: #265a88;
   border-color: #245580;
 }
-.localizedboostrap .btn-primary.disabled,
-.localizedboostrap .btn-primary[disabled],
-.localizedboostrap fieldset[disabled] .btn-primary,
-.localizedboostrap .btn-primary.disabled:hover,
-.localizedboostrap .btn-primary[disabled]:hover,
-.localizedboostrap fieldset[disabled] .btn-primary:hover,
-.localizedboostrap .btn-primary.disabled:focus,
-.localizedboostrap .btn-primary[disabled]:focus,
-.localizedboostrap fieldset[disabled] .btn-primary:focus,
-.localizedboostrap .btn-primary.disabled.focus,
-.localizedboostrap .btn-primary[disabled].focus,
-.localizedboostrap fieldset[disabled] .btn-primary.focus,
-.localizedboostrap .btn-primary.disabled:active,
-.localizedboostrap .btn-primary[disabled]:active,
-.localizedboostrap fieldset[disabled] .btn-primary:active,
-.localizedboostrap .btn-primary.disabled.active,
-.localizedboostrap .btn-primary[disabled].active,
-.localizedboostrap fieldset[disabled] .btn-primary.active {
+.localizedbootstrap .btn-primary.disabled,
+.localizedbootstrap .btn-primary[disabled],
+.localizedbootstrap fieldset[disabled] .btn-primary,
+.localizedbootstrap .btn-primary.disabled:hover,
+.localizedbootstrap .btn-primary[disabled]:hover,
+.localizedbootstrap fieldset[disabled] .btn-primary:hover,
+.localizedbootstrap .btn-primary.disabled:focus,
+.localizedbootstrap .btn-primary[disabled]:focus,
+.localizedbootstrap fieldset[disabled] .btn-primary:focus,
+.localizedbootstrap .btn-primary.disabled.focus,
+.localizedbootstrap .btn-primary[disabled].focus,
+.localizedbootstrap fieldset[disabled] .btn-primary.focus,
+.localizedbootstrap .btn-primary.disabled:active,
+.localizedbootstrap .btn-primary[disabled]:active,
+.localizedbootstrap fieldset[disabled] .btn-primary:active,
+.localizedbootstrap .btn-primary.disabled.active,
+.localizedbootstrap .btn-primary[disabled].active,
+.localizedbootstrap fieldset[disabled] .btn-primary.active {
   background-color: #265a88;
   background-image: none;
 }
-.localizedboostrap .btn-success {
+.localizedbootstrap .btn-success {
   background-image: -webkit-linear-gradient(top, #5cb85c 0%, #419641 100%);
   background-image: -o-linear-gradient(top, #5cb85c 0%, #419641 100%);
   background-image: -webkit-gradient(linear, left top, left bottom, from(#5cb85c), to(#419641));
@@ -158,38 +158,38 @@
   background-repeat: repeat-x;
   border-color: #3e8f3e;
 }
-.localizedboostrap .btn-success:hover,
-.localizedboostrap .btn-success:focus {
+.localizedbootstrap .btn-success:hover,
+.localizedbootstrap .btn-success:focus {
   background-color: #419641;
   background-position: 0 -15px;
 }
-.localizedboostrap .btn-success:active,
-.localizedboostrap .btn-success.active {
+.localizedbootstrap .btn-success:active,
+.localizedbootstrap .btn-success.active {
   background-color: #419641;
   border-color: #3e8f3e;
 }
-.localizedboostrap .btn-success.disabled,
-.localizedboostrap .btn-success[disabled],
-.localizedboostrap fieldset[disabled] .btn-success,
-.localizedboostrap .btn-success.disabled:hover,
-.localizedboostrap .btn-success[disabled]:hover,
-.localizedboostrap fieldset[disabled] .btn-success:hover,
-.localizedboostrap .btn-success.disabled:focus,
-.localizedboostrap .btn-success[disabled]:focus,
-.localizedboostrap fieldset[disabled] .btn-success:focus,
-.localizedboostrap .btn-success.disabled.focus,
-.localizedboostrap .btn-success[disabled].focus,
-.localizedboostrap fieldset[disabled] .btn-success.focus,
-.localizedboostrap .btn-success.disabled:active,
-.localizedboostrap .btn-success[disabled]:active,
-.localizedboostrap fieldset[disabled] .btn-success:active,
-.localizedboostrap .btn-success.disabled.active,
-.localizedboostrap .btn-success[disabled].active,
-.localizedboostrap fieldset[disabled] .btn-success.active {
+.localizedbootstrap .btn-success.disabled,
+.localizedbootstrap .btn-success[disabled],
+.localizedbootstrap fieldset[disabled] .btn-success,
+.localizedbootstrap .btn-success.disabled:hover,
+.localizedbootstrap .btn-success[disabled]:hover,
+.localizedbootstrap fieldset[disabled] .btn-success:hover,
+.localizedbootstrap .btn-success.disabled:focus,
+.localizedbootstrap .btn-success[disabled]:focus,
+.localizedbootstrap fieldset[disabled] .btn-success:focus,
+.localizedbootstrap .btn-success.disabled.focus,
+.localizedbootstrap .btn-success[disabled].focus,
+.localizedbootstrap fieldset[disabled] .btn-success.focus,
+.localizedbootstrap .btn-success.disabled:active,
+.localizedbootstrap .btn-success[disabled]:active,
+.localizedbootstrap fieldset[disabled] .btn-success:active,
+.localizedbootstrap .btn-success.disabled.active,
+.localizedbootstrap .btn-success[disabled].active,
+.localizedbootstrap fieldset[disabled] .btn-success.active {
   background-color: #419641;
   background-image: none;
 }
-.localizedboostrap .btn-info {
+.localizedbootstrap .btn-info {
   background-image: -webkit-linear-gradient(top, #5bc0de 0%, #2aabd2 100%);
   background-image: -o-linear-gradient(top, #5bc0de 0%, #2aabd2 100%);
   background-image: -webkit-gradient(linear, left top, left bottom, from(#5bc0de), to(#2aabd2));
@@ -199,38 +199,38 @@
   background-repeat: repeat-x;
   border-color: #28a4c9;
 }
-.localizedboostrap .btn-info:hover,
-.localizedboostrap .btn-info:focus {
+.localizedbootstrap .btn-info:hover,
+.localizedbootstrap .btn-info:focus {
   background-color: #2aabd2;
   background-position: 0 -15px;
 }
-.localizedboostrap .btn-info:active,
-.localizedboostrap .btn-info.active {
+.localizedbootstrap .btn-info:active,
+.localizedbootstrap .btn-info.active {
   background-color: #2aabd2;
   border-color: #28a4c9;
 }
-.localizedboostrap .btn-info.disabled,
-.localizedboostrap .btn-info[disabled],
-.localizedboostrap fieldset[disabled] .btn-info,
-.localizedboostrap .btn-info.disabled:hover,
-.localizedboostrap .btn-info[disabled]:hover,
-.localizedboostrap fieldset[disabled] .btn-info:hover,
-.localizedboostrap .btn-info.disabled:focus,
-.localizedboostrap .btn-info[disabled]:focus,
-.localizedboostrap fieldset[disabled] .btn-info:focus,
-.localizedboostrap .btn-info.disabled.focus,
-.localizedboostrap .btn-info[disabled].focus,
-.localizedboostrap fieldset[disabled] .btn-info.focus,
-.localizedboostrap .btn-info.disabled:active,
-.localizedboostrap .btn-info[disabled]:active,
-.localizedboostrap fieldset[disabled] .btn-info:active,
-.localizedboostrap .btn-info.disabled.active,
-.localizedboostrap .btn-info[disabled].active,
-.localizedboostrap fieldset[disabled] .btn-info.active {
+.localizedbootstrap .btn-info.disabled,
+.localizedbootstrap .btn-info[disabled],
+.localizedbootstrap fieldset[disabled] .btn-info,
+.localizedbootstrap .btn-info.disabled:hover,
+.localizedbootstrap .btn-info[disabled]:hover,
+.localizedbootstrap fieldset[disabled] .btn-info:hover,
+.localizedbootstrap .btn-info.disabled:focus,
+.localizedbootstrap .btn-info[disabled]:focus,
+.localizedbootstrap fieldset[disabled] .btn-info:focus,
+.localizedbootstrap .btn-info.disabled.focus,
+.localizedbootstrap .btn-info[disabled].focus,
+.localizedbootstrap fieldset[disabled] .btn-info.focus,
+.localizedbootstrap .btn-info.disabled:active,
+.localizedbootstrap .btn-info[disabled]:active,
+.localizedbootstrap fieldset[disabled] .btn-info:active,
+.localizedbootstrap .btn-info.disabled.active,
+.localizedbootstrap .btn-info[disabled].active,
+.localizedbootstrap fieldset[disabled] .btn-info.active {
   background-color: #2aabd2;
   background-image: none;
 }
-.localizedboostrap .btn-warning {
+.localizedbootstrap .btn-warning {
   background-image: -webkit-linear-gradient(top, #f0ad4e 0%, #eb9316 100%);
   background-image: -o-linear-gradient(top, #f0ad4e 0%, #eb9316 100%);
   background-image: -webkit-gradient(linear, left top, left bottom, from(#f0ad4e), to(#eb9316));
@@ -240,38 +240,38 @@
   background-repeat: repeat-x;
   border-color: #e38d13;
 }
-.localizedboostrap .btn-warning:hover,
-.localizedboostrap .btn-warning:focus {
+.localizedbootstrap .btn-warning:hover,
+.localizedbootstrap .btn-warning:focus {
   background-color: #eb9316;
   background-position: 0 -15px;
 }
-.localizedboostrap .btn-warning:active,
-.localizedboostrap .btn-warning.active {
+.localizedbootstrap .btn-warning:active,
+.localizedbootstrap .btn-warning.active {
   background-color: #eb9316;
   border-color: #e38d13;
 }
-.localizedboostrap .btn-warning.disabled,
-.localizedboostrap .btn-warning[disabled],
-.localizedboostrap fieldset[disabled] .btn-warning,
-.localizedboostrap .btn-warning.disabled:hover,
-.localizedboostrap .btn-warning[disabled]:hover,
-.localizedboostrap fieldset[disabled] .btn-warning:hover,
-.localizedboostrap .btn-warning.disabled:focus,
-.localizedboostrap .btn-warning[disabled]:focus,
-.localizedboostrap fieldset[disabled] .btn-warning:focus,
-.localizedboostrap .btn-warning.disabled.focus,
-.localizedboostrap .btn-warning[disabled].focus,
-.localizedboostrap fieldset[disabled] .btn-warning.focus,
-.localizedboostrap .btn-warning.disabled:active,
-.localizedboostrap .btn-warning[disabled]:active,
-.localizedboostrap fieldset[disabled] .btn-warning:active,
-.localizedboostrap .btn-warning.disabled.active,
-.localizedboostrap .btn-warning[disabled].active,
-.localizedboostrap fieldset[disabled] .btn-warning.active {
+.localizedbootstrap .btn-warning.disabled,
+.localizedbootstrap .btn-warning[disabled],
+.localizedbootstrap fieldset[disabled] .btn-warning,
+.localizedbootstrap .btn-warning.disabled:hover,
+.localizedbootstrap .btn-warning[disabled]:hover,
+.localizedbootstrap fieldset[disabled] .btn-warning:hover,
+.localizedbootstrap .btn-warning.disabled:focus,
+.localizedbootstrap .btn-warning[disabled]:focus,
+.localizedbootstrap fieldset[disabled] .btn-warning:focus,
+.localizedbootstrap .btn-warning.disabled.focus,
+.localizedbootstrap .btn-warning[disabled].focus,
+.localizedbootstrap fieldset[disabled] .btn-warning.focus,
+.localizedbootstrap .btn-warning.disabled:active,
+.localizedbootstrap .btn-warning[disabled]:active,
+.localizedbootstrap fieldset[disabled] .btn-warning:active,
+.localizedbootstrap .btn-warning.disabled.active,
+.localizedbootstrap .btn-warning[disabled].active,
+.localizedbootstrap fieldset[disabled] .btn-warning.active {
   background-color: #eb9316;
   background-image: none;
 }
-.localizedboostrap .btn-danger {
+.localizedbootstrap .btn-danger {
   background-image: -webkit-linear-gradient(top, #d9534f 0%, #c12e2a 100%);
   background-image: -o-linear-gradient(top, #d9534f 0%, #c12e2a 100%);
   background-image: -webkit-gradient(linear, left top, left bottom, from(#d9534f), to(#c12e2a));
@@ -281,44 +281,44 @@
   background-repeat: repeat-x;
   border-color: #b92c28;
 }
-.localizedboostrap .btn-danger:hover,
-.localizedboostrap .btn-danger:focus {
+.localizedbootstrap .btn-danger:hover,
+.localizedbootstrap .btn-danger:focus {
   background-color: #c12e2a;
   background-position: 0 -15px;
 }
-.localizedboostrap .btn-danger:active,
-.localizedboostrap .btn-danger.active {
+.localizedbootstrap .btn-danger:active,
+.localizedbootstrap .btn-danger.active {
   background-color: #c12e2a;
   border-color: #b92c28;
 }
-.localizedboostrap .btn-danger.disabled,
-.localizedboostrap .btn-danger[disabled],
-.localizedboostrap fieldset[disabled] .btn-danger,
-.localizedboostrap .btn-danger.disabled:hover,
-.localizedboostrap .btn-danger[disabled]:hover,
-.localizedboostrap fieldset[disabled] .btn-danger:hover,
-.localizedboostrap .btn-danger.disabled:focus,
-.localizedboostrap .btn-danger[disabled]:focus,
-.localizedboostrap fieldset[disabled] .btn-danger:focus,
-.localizedboostrap .btn-danger.disabled.focus,
-.localizedboostrap .btn-danger[disabled].focus,
-.localizedboostrap fieldset[disabled] .btn-danger.focus,
-.localizedboostrap .btn-danger.disabled:active,
-.localizedboostrap .btn-danger[disabled]:active,
-.localizedboostrap fieldset[disabled] .btn-danger:active,
-.localizedboostrap .btn-danger.disabled.active,
-.localizedboostrap .btn-danger[disabled].active,
-.localizedboostrap fieldset[disabled] .btn-danger.active {
+.localizedbootstrap .btn-danger.disabled,
+.localizedbootstrap .btn-danger[disabled],
+.localizedbootstrap fieldset[disabled] .btn-danger,
+.localizedbootstrap .btn-danger.disabled:hover,
+.localizedbootstrap .btn-danger[disabled]:hover,
+.localizedbootstrap fieldset[disabled] .btn-danger:hover,
+.localizedbootstrap .btn-danger.disabled:focus,
+.localizedbootstrap .btn-danger[disabled]:focus,
+.localizedbootstrap fieldset[disabled] .btn-danger:focus,
+.localizedbootstrap .btn-danger.disabled.focus,
+.localizedbootstrap .btn-danger[disabled].focus,
+.localizedbootstrap fieldset[disabled] .btn-danger.focus,
+.localizedbootstrap .btn-danger.disabled:active,
+.localizedbootstrap .btn-danger[disabled]:active,
+.localizedbootstrap fieldset[disabled] .btn-danger:active,
+.localizedbootstrap .btn-danger.disabled.active,
+.localizedbootstrap .btn-danger[disabled].active,
+.localizedbootstrap fieldset[disabled] .btn-danger.active {
   background-color: #c12e2a;
   background-image: none;
 }
-.localizedboostrap .thumbnail,
-.localizedboostrap .img-thumbnail {
+.localizedbootstrap .thumbnail,
+.localizedbootstrap .img-thumbnail {
   -webkit-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.075);
   box-shadow: 0 1px 2px rgba(0, 0, 0, 0.075);
 }
-.localizedboostrap .dropdown-menu > li > a:hover,
-.localizedboostrap .dropdown-menu > li > a:focus {
+.localizedbootstrap .dropdown-menu > li > a:hover,
+.localizedbootstrap .dropdown-menu > li > a:focus {
   background-color: #e8e8e8;
   background-image: -webkit-linear-gradient(top, #f5f5f5 0%, #e8e8e8 100%);
   background-image: -o-linear-gradient(top, #f5f5f5 0%, #e8e8e8 100%);
@@ -327,9 +327,9 @@
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#fff5f5f5', endColorstr='#ffe8e8e8', GradientType=0);
   background-repeat: repeat-x;
 }
-.localizedboostrap .dropdown-menu > .active > a,
-.localizedboostrap .dropdown-menu > .active > a:hover,
-.localizedboostrap .dropdown-menu > .active > a:focus {
+.localizedbootstrap .dropdown-menu > .active > a,
+.localizedbootstrap .dropdown-menu > .active > a:hover,
+.localizedbootstrap .dropdown-menu > .active > a:focus {
   background-color: #2e6da4;
   background-image: -webkit-linear-gradient(top, #337ab7 0%, #2e6da4 100%);
   background-image: -o-linear-gradient(top, #337ab7 0%, #2e6da4 100%);
@@ -338,7 +338,7 @@
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff337ab7', endColorstr='#ff2e6da4', GradientType=0);
   background-repeat: repeat-x;
 }
-.localizedboostrap .navbar-default {
+.localizedbootstrap .navbar-default {
   background-image: -webkit-linear-gradient(top, #fff 0%, #f8f8f8 100%);
   background-image: -o-linear-gradient(top, #fff 0%, #f8f8f8 100%);
   background-image: -webkit-gradient(linear, left top, left bottom, from(#fff), to(#f8f8f8));
@@ -350,8 +350,8 @@
   -webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.15), 0 1px 5px rgba(0, 0, 0, 0.075);
   box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.15), 0 1px 5px rgba(0, 0, 0, 0.075);
 }
-.localizedboostrap .navbar-default .navbar-nav > .open > a,
-.localizedboostrap .navbar-default .navbar-nav > .active > a {
+.localizedbootstrap .navbar-default .navbar-nav > .open > a,
+.localizedbootstrap .navbar-default .navbar-nav > .active > a {
   background-image: -webkit-linear-gradient(top, #dbdbdb 0%, #e2e2e2 100%);
   background-image: -o-linear-gradient(top, #dbdbdb 0%, #e2e2e2 100%);
   background-image: -webkit-gradient(linear, left top, left bottom, from(#dbdbdb), to(#e2e2e2));
@@ -361,11 +361,11 @@
   -webkit-box-shadow: inset 0 3px 9px rgba(0, 0, 0, 0.075);
   box-shadow: inset 0 3px 9px rgba(0, 0, 0, 0.075);
 }
-.localizedboostrap .navbar-brand,
-.localizedboostrap .navbar-nav > li > a {
+.localizedbootstrap .navbar-brand,
+.localizedbootstrap .navbar-nav > li > a {
   text-shadow: 0 1px 0 rgba(255, 255, 255, 0.25);
 }
-.localizedboostrap .navbar-inverse {
+.localizedbootstrap .navbar-inverse {
   background-image: -webkit-linear-gradient(top, #3c3c3c 0%, #222 100%);
   background-image: -o-linear-gradient(top, #3c3c3c 0%, #222 100%);
   background-image: -webkit-gradient(linear, left top, left bottom, from(#3c3c3c), to(#222));
@@ -375,8 +375,8 @@
   background-repeat: repeat-x;
   border-radius: 4px;
 }
-.localizedboostrap .navbar-inverse .navbar-nav > .open > a,
-.localizedboostrap .navbar-inverse .navbar-nav > .active > a {
+.localizedbootstrap .navbar-inverse .navbar-nav > .open > a,
+.localizedbootstrap .navbar-inverse .navbar-nav > .active > a {
   background-image: -webkit-linear-gradient(top, #080808 0%, #0f0f0f 100%);
   background-image: -o-linear-gradient(top, #080808 0%, #0f0f0f 100%);
   background-image: -webkit-gradient(linear, left top, left bottom, from(#080808), to(#0f0f0f));
@@ -386,19 +386,19 @@
   -webkit-box-shadow: inset 0 3px 9px rgba(0, 0, 0, 0.25);
   box-shadow: inset 0 3px 9px rgba(0, 0, 0, 0.25);
 }
-.localizedboostrap .navbar-inverse .navbar-brand,
-.localizedboostrap .navbar-inverse .navbar-nav > li > a {
+.localizedbootstrap .navbar-inverse .navbar-brand,
+.localizedbootstrap .navbar-inverse .navbar-nav > li > a {
   text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
 }
-.localizedboostrap .navbar-static-top,
-.localizedboostrap .navbar-fixed-top,
-.localizedboostrap .navbar-fixed-bottom {
+.localizedbootstrap .navbar-static-top,
+.localizedbootstrap .navbar-fixed-top,
+.localizedbootstrap .navbar-fixed-bottom {
   border-radius: 0;
 }
 @media (max-width: 767px) {
-  .localizedboostrap .navbar .navbar-nav .open .dropdown-menu > .active > a,
-  .localizedboostrap .navbar .navbar-nav .open .dropdown-menu > .active > a:hover,
-  .localizedboostrap .navbar .navbar-nav .open .dropdown-menu > .active > a:focus {
+  .localizedbootstrap .navbar .navbar-nav .open .dropdown-menu > .active > a,
+  .localizedbootstrap .navbar .navbar-nav .open .dropdown-menu > .active > a:hover,
+  .localizedbootstrap .navbar .navbar-nav .open .dropdown-menu > .active > a:focus {
     color: #fff;
     background-image: -webkit-linear-gradient(top, #337ab7 0%, #2e6da4 100%);
     background-image: -o-linear-gradient(top, #337ab7 0%, #2e6da4 100%);
@@ -408,12 +408,12 @@
     background-repeat: repeat-x;
   }
 }
-.localizedboostrap .alert {
+.localizedbootstrap .alert {
   text-shadow: 0 1px 0 rgba(255, 255, 255, 0.2);
   -webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.25), 0 1px 2px rgba(0, 0, 0, 0.05);
   box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.25), 0 1px 2px rgba(0, 0, 0, 0.05);
 }
-.localizedboostrap .alert-success {
+.localizedbootstrap .alert-success {
   background-image: -webkit-linear-gradient(top, #dff0d8 0%, #c8e5bc 100%);
   background-image: -o-linear-gradient(top, #dff0d8 0%, #c8e5bc 100%);
   background-image: -webkit-gradient(linear, left top, left bottom, from(#dff0d8), to(#c8e5bc));
@@ -422,7 +422,7 @@
   background-repeat: repeat-x;
   border-color: #b2dba1;
 }
-.localizedboostrap .alert-info {
+.localizedbootstrap .alert-info {
   background-image: -webkit-linear-gradient(top, #d9edf7 0%, #b9def0 100%);
   background-image: -o-linear-gradient(top, #d9edf7 0%, #b9def0 100%);
   background-image: -webkit-gradient(linear, left top, left bottom, from(#d9edf7), to(#b9def0));
@@ -431,7 +431,7 @@
   background-repeat: repeat-x;
   border-color: #9acfea;
 }
-.localizedboostrap .alert-warning {
+.localizedbootstrap .alert-warning {
   background-image: -webkit-linear-gradient(top, #fcf8e3 0%, #f8efc0 100%);
   background-image: -o-linear-gradient(top, #fcf8e3 0%, #f8efc0 100%);
   background-image: -webkit-gradient(linear, left top, left bottom, from(#fcf8e3), to(#f8efc0));
@@ -440,7 +440,7 @@
   background-repeat: repeat-x;
   border-color: #f5e79e;
 }
-.localizedboostrap .alert-danger {
+.localizedbootstrap .alert-danger {
   background-image: -webkit-linear-gradient(top, #f2dede 0%, #e7c3c3 100%);
   background-image: -o-linear-gradient(top, #f2dede 0%, #e7c3c3 100%);
   background-image: -webkit-gradient(linear, left top, left bottom, from(#f2dede), to(#e7c3c3));
@@ -449,7 +449,7 @@
   background-repeat: repeat-x;
   border-color: #dca7a7;
 }
-.localizedboostrap .progress {
+.localizedbootstrap .progress {
   background-image: -webkit-linear-gradient(top, #ebebeb 0%, #f5f5f5 100%);
   background-image: -o-linear-gradient(top, #ebebeb 0%, #f5f5f5 100%);
   background-image: -webkit-gradient(linear, left top, left bottom, from(#ebebeb), to(#f5f5f5));
@@ -457,7 +457,7 @@
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffebebeb', endColorstr='#fff5f5f5', GradientType=0);
   background-repeat: repeat-x;
 }
-.localizedboostrap .progress-bar {
+.localizedbootstrap .progress-bar {
   background-image: -webkit-linear-gradient(top, #337ab7 0%, #286090 100%);
   background-image: -o-linear-gradient(top, #337ab7 0%, #286090 100%);
   background-image: -webkit-gradient(linear, left top, left bottom, from(#337ab7), to(#286090));
@@ -465,7 +465,7 @@
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff337ab7', endColorstr='#ff286090', GradientType=0);
   background-repeat: repeat-x;
 }
-.localizedboostrap .progress-bar-success {
+.localizedbootstrap .progress-bar-success {
   background-image: -webkit-linear-gradient(top, #5cb85c 0%, #449d44 100%);
   background-image: -o-linear-gradient(top, #5cb85c 0%, #449d44 100%);
   background-image: -webkit-gradient(linear, left top, left bottom, from(#5cb85c), to(#449d44));
@@ -473,7 +473,7 @@
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff5cb85c', endColorstr='#ff449d44', GradientType=0);
   background-repeat: repeat-x;
 }
-.localizedboostrap .progress-bar-info {
+.localizedbootstrap .progress-bar-info {
   background-image: -webkit-linear-gradient(top, #5bc0de 0%, #31b0d5 100%);
   background-image: -o-linear-gradient(top, #5bc0de 0%, #31b0d5 100%);
   background-image: -webkit-gradient(linear, left top, left bottom, from(#5bc0de), to(#31b0d5));
@@ -481,7 +481,7 @@
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff5bc0de', endColorstr='#ff31b0d5', GradientType=0);
   background-repeat: repeat-x;
 }
-.localizedboostrap .progress-bar-warning {
+.localizedbootstrap .progress-bar-warning {
   background-image: -webkit-linear-gradient(top, #f0ad4e 0%, #ec971f 100%);
   background-image: -o-linear-gradient(top, #f0ad4e 0%, #ec971f 100%);
   background-image: -webkit-gradient(linear, left top, left bottom, from(#f0ad4e), to(#ec971f));
@@ -489,7 +489,7 @@
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#fff0ad4e', endColorstr='#ffec971f', GradientType=0);
   background-repeat: repeat-x;
 }
-.localizedboostrap .progress-bar-danger {
+.localizedbootstrap .progress-bar-danger {
   background-image: -webkit-linear-gradient(top, #d9534f 0%, #c9302c 100%);
   background-image: -o-linear-gradient(top, #d9534f 0%, #c9302c 100%);
   background-image: -webkit-gradient(linear, left top, left bottom, from(#d9534f), to(#c9302c));
@@ -497,19 +497,19 @@
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffd9534f', endColorstr='#ffc9302c', GradientType=0);
   background-repeat: repeat-x;
 }
-.localizedboostrap .progress-bar-striped {
+.localizedbootstrap .progress-bar-striped {
   background-image: -webkit-linear-gradient(45deg, rgba(255, 255, 255, 0.15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.15) 50%, rgba(255, 255, 255, 0.15) 75%, transparent 75%, transparent);
   background-image: -o-linear-gradient(45deg, rgba(255, 255, 255, 0.15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.15) 50%, rgba(255, 255, 255, 0.15) 75%, transparent 75%, transparent);
   background-image: linear-gradient(45deg, rgba(255, 255, 255, 0.15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.15) 50%, rgba(255, 255, 255, 0.15) 75%, transparent 75%, transparent);
 }
-.localizedboostrap .list-group {
+.localizedbootstrap .list-group {
   border-radius: 4px;
   -webkit-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.075);
   box-shadow: 0 1px 2px rgba(0, 0, 0, 0.075);
 }
-.localizedboostrap .list-group-item.active,
-.localizedboostrap .list-group-item.active:hover,
-.localizedboostrap .list-group-item.active:focus {
+.localizedbootstrap .list-group-item.active,
+.localizedbootstrap .list-group-item.active:hover,
+.localizedbootstrap .list-group-item.active:focus {
   text-shadow: 0 -1px 0 #286090;
   background-image: -webkit-linear-gradient(top, #337ab7 0%, #2b669a 100%);
   background-image: -o-linear-gradient(top, #337ab7 0%, #2b669a 100%);
@@ -519,16 +519,16 @@
   background-repeat: repeat-x;
   border-color: #2b669a;
 }
-.localizedboostrap .list-group-item.active .badge,
-.localizedboostrap .list-group-item.active:hover .badge,
-.localizedboostrap .list-group-item.active:focus .badge {
+.localizedbootstrap .list-group-item.active .badge,
+.localizedbootstrap .list-group-item.active:hover .badge,
+.localizedbootstrap .list-group-item.active:focus .badge {
   text-shadow: none;
 }
-.localizedboostrap .panel {
+.localizedbootstrap .panel {
   -webkit-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
   box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
 }
-.localizedboostrap .panel-default > .panel-heading {
+.localizedbootstrap .panel-default > .panel-heading {
   background-image: -webkit-linear-gradient(top, #f5f5f5 0%, #e8e8e8 100%);
   background-image: -o-linear-gradient(top, #f5f5f5 0%, #e8e8e8 100%);
   background-image: -webkit-gradient(linear, left top, left bottom, from(#f5f5f5), to(#e8e8e8));
@@ -536,7 +536,7 @@
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#fff5f5f5', endColorstr='#ffe8e8e8', GradientType=0);
   background-repeat: repeat-x;
 }
-.localizedboostrap .panel-primary > .panel-heading {
+.localizedbootstrap .panel-primary > .panel-heading {
   background-image: -webkit-linear-gradient(top, #337ab7 0%, #2e6da4 100%);
   background-image: -o-linear-gradient(top, #337ab7 0%, #2e6da4 100%);
   background-image: -webkit-gradient(linear, left top, left bottom, from(#337ab7), to(#2e6da4));
@@ -544,7 +544,7 @@
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff337ab7', endColorstr='#ff2e6da4', GradientType=0);
   background-repeat: repeat-x;
 }
-.localizedboostrap .panel-success > .panel-heading {
+.localizedbootstrap .panel-success > .panel-heading {
   background-image: -webkit-linear-gradient(top, #dff0d8 0%, #d0e9c6 100%);
   background-image: -o-linear-gradient(top, #dff0d8 0%, #d0e9c6 100%);
   background-image: -webkit-gradient(linear, left top, left bottom, from(#dff0d8), to(#d0e9c6));
@@ -552,7 +552,7 @@
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffdff0d8', endColorstr='#ffd0e9c6', GradientType=0);
   background-repeat: repeat-x;
 }
-.localizedboostrap .panel-info > .panel-heading {
+.localizedbootstrap .panel-info > .panel-heading {
   background-image: -webkit-linear-gradient(top, #d9edf7 0%, #c4e3f3 100%);
   background-image: -o-linear-gradient(top, #d9edf7 0%, #c4e3f3 100%);
   background-image: -webkit-gradient(linear, left top, left bottom, from(#d9edf7), to(#c4e3f3));
@@ -560,7 +560,7 @@
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffd9edf7', endColorstr='#ffc4e3f3', GradientType=0);
   background-repeat: repeat-x;
 }
-.localizedboostrap .panel-warning > .panel-heading {
+.localizedbootstrap .panel-warning > .panel-heading {
   background-image: -webkit-linear-gradient(top, #fcf8e3 0%, #faf2cc 100%);
   background-image: -o-linear-gradient(top, #fcf8e3 0%, #faf2cc 100%);
   background-image: -webkit-gradient(linear, left top, left bottom, from(#fcf8e3), to(#faf2cc));
@@ -568,7 +568,7 @@
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#fffcf8e3', endColorstr='#fffaf2cc', GradientType=0);
   background-repeat: repeat-x;
 }
-.localizedboostrap .panel-danger > .panel-heading {
+.localizedbootstrap .panel-danger > .panel-heading {
   background-image: -webkit-linear-gradient(top, #f2dede 0%, #ebcccc 100%);
   background-image: -o-linear-gradient(top, #f2dede 0%, #ebcccc 100%);
   background-image: -webkit-gradient(linear, left top, left bottom, from(#f2dede), to(#ebcccc));
@@ -576,7 +576,7 @@
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#fff2dede', endColorstr='#ffebcccc', GradientType=0);
   background-repeat: repeat-x;
 }
-.localizedboostrap .well {
+.localizedbootstrap .well {
   background-image: -webkit-linear-gradient(top, #e8e8e8 0%, #f5f5f5 100%);
   background-image: -o-linear-gradient(top, #e8e8e8 0%, #f5f5f5 100%);
   background-image: -webkit-gradient(linear, left top, left bottom, from(#e8e8e8), to(#f5f5f5));
